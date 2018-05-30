@@ -1,5 +1,0 @@
-AuthType Basic
-AuthName "Restricted Area"
-AuthUserFile /Users/izzy/Documents/Camp 2018/SciTech/Web/.htpasswd
-AuthGroupFile /dev/null
-require valid-user
