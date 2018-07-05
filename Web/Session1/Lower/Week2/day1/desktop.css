@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Wendy+One');
+
+
+html{
+    background-color: yellow;
+}
+
+body{
+    background-color: rgba(83, 198, 226);
+    width: 1000px;
+    margin: 0 auto;
+    font-family: 'Wendy One', sans-serif;
+    padding: 50px;
+}
+
+img{
+    width: 1000px;
+}
+
+.pic1{
+    width: 500px;
+}
+
+h1, p{
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+    display: block;
+    margin-left: 35%;
+    padding: 0;
+}
+
+li{
+    display: inline-block;
+    margin: 0 20px;
+}

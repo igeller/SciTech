@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Encode+Sans+Condensed');
+
+html{
+    background-color: blue;
+}
+
+body{
+    background-color: pink;
+    width: 1020px;
+    margin: 0 auto;
+    font-family: 'Encode Sans Condensed', sans-serif;
+}
+
+p{
+    background-color: green;
+    font-size: 100px;
+    text-align: center;
+}
+
+#bullet{
+    color: red;
+    font-size: 30px;
+    font-style: oblique;
+}
+
+/* .bullet{
+
+} */
