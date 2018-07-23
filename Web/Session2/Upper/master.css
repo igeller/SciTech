@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
+
+html{
+    background-color: pink;
+}
+
+body{
+    background-color: aqua;
+    width: 1000px;
+    margin: 0 auto;
+    padding: 10px;
+    font-family: 'Pacifico', cursive;
+    color: rgba(109, 23, 23);
+}
+
+img{
+    width: 500px;
+}
+
+a{
+    text-decoration: none;
+    color: rgba(109, 23, 23);
+}
+
+a:hover{
+    background-color: white;
+}
+
+a:after{
+    color: rgba(109, 23, 23);
+}

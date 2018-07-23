@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Gaegu');
+
+html{
+    background-color: pink;
+}
+
+body{
+    background-color: aqua;
+    width: 1000px;
+    margin: 0 auto;
+    color: green;
+    font-family: 'Gaegu', cursive;
+
+}
+
+img{
+    width: 1000px;
+}
