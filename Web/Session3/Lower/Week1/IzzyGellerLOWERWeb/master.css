@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Amatic+SC');
+
+
+html{
+    /* background-color: aqua; */
+    background-image: url(https://cdn.pixabay.com/photo/2017/04/22/00/14/universe-2250310_960_720.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body{
+    background-color: maroon;
+    width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: 'Amatic SC', cursive;
+    font-size: 20px;
+    display: block;
+}
+
+h1{
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+}
+
+
+#pup1{
+    width: 1000px;
+    display: block;
+    margin: 5px auto;
+}
+
+#pup2{
+    width: 500px;
+    display: block;
+    margin: 5px auto;
+
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+}
+a:hover{
+    background-color: aqua;
+}

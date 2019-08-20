@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Archivo+Narrow|Pacifico');
+
+
+
+html{
+    background-image: url(https://cdn-img.health.com/sites/default/files/styles/large_16_9/public/styles/main/public/gettyimages-522881398.jpg?itok=0g33xDwx);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+body{
+    background-color: rgba(51, 188, 87, 0.47);
+    width: 1200px;
+    margin: 0 auto;
+    color: black;
+    font-family: 'Archivo Narrow', sans-serif;
+}
+
+h1{
+    color: blue;
+    font-family: 'Pacifico', cursive;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+#pic1{
+    height: 500px;
+}
+
+iframe{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+a{
+    color: red;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: white;
+    color: aqua;
+    padding: 10px;
+    border-radius: 20px;
+}
